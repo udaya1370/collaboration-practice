@@ -6,9 +6,9 @@
 #### 6
 #### 7 Uday likes basketball!
 #### 8
-#### 9 github is awesome.
+#### 9 github is really awesome.
 #### 10
-#### 11 I like muffins.
+#### 11 we like muffins and pizza.
 #### 12
 #### 13
 #### 14
