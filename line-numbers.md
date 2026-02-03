@@ -6,7 +6,7 @@
 #### 6
 #### 7 Uday likes basketball!
 #### 8
-#### 9 Github is really good
+#### 9 github is really awesome.
 #### 10
 #### 11
 #### 12
